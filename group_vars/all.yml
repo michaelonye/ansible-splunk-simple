@@ -7,7 +7,7 @@
 user_name: 'splunk-admin'
 
 # password to set for the user above in encrypted format, similat to /etc/shadow
-user_pass: '$6$MO3mawdB$gQkwyvLLJ3SJzvqcnUK4Tcrzqm1OWdAXqzpMGaM66VKjIkKIDDunHSfShIQHEZSYNWBd4NcSfUbzCitmMsAWw.'
+user_pass: '$1$tVd354Yk$izfz/HpykoVIfrhSwuIkm/:17246:0:99999:7:::'
 # ssh key to copy over for the user above
 key_file: '/home/splunk-admin/.ssh/id_rsa.pub' 
 
